@@ -4,6 +4,7 @@
 #include<fcntl.h>
 void main(int args,char* argv[])
 {
+    printf("pavan");
 	int ret,fd,i;
 	char a[5];
 	if(args>=2)
